@@ -20,4 +20,4 @@ However, please consider to cite this paper if any idea or code is helpful, and 
 
 Note:
     
-    I will update with a better model, and it seems Dice Loss should be sufficient enough for this model, and the BCELoss is redundant; I will find time to retrain and validate this issue.
+    I will update with a better model, and it seems Dice Loss should be sufficient enough for this model, and the BCELoss is also redundant; I will find time to retrain the net and validate on this issue.
