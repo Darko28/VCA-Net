@@ -16,3 +16,8 @@ Some of the codes are borrowed from other repositories. Thanks to all of them. (
 
 
 However, please consider to cite this paper if any idea or code is helpful, and welcome to reach out to me as I am still new to this field:).
+
+
+Note:
+    
+    I will update with a better model, and it seems Dice Loss should be sufficient enough for this model, and the BCELoss is redundant; I will find time to retrain and validate this issue.
