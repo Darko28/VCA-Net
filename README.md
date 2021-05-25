@@ -32,7 +32,10 @@ Some of the codes are borrowed from other repositories. Thanks to all of them. (
 <div align=center>
 <img src="https://github.com/DarkoBomer/VCA-Net/blob/main/pics/ss1.jpg"/>
 </div>
-* I may update this repo with a simple iOS demo app.
+<br />
+
+* I may update this repo with a simple iOS demo app in the near future.
+<br />
 
 <!-- ![image](pics/ss2.jpg) -->
 Note:
