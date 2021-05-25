@@ -27,7 +27,7 @@ Some of the codes are borrowed from other repositories. Thanks to all of them. (
 <img src="https://github.com/DarkoBomer/VCA-Net/blob/main/pics/ss2.jpg" height=400/>
 </div>
 
-    The iOS version:
+    iOS App:
 <div align=center>
 <img src="https://github.com/DarkoBomer/VCA-Net/blob/main/pics/ss1.jpg"/>
 </div>
