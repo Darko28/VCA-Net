@@ -23,7 +23,8 @@ And I will also try to manipulate the ops and archs in the future, but, still mo
 Some of the codes are borrowed from other repositories. Thanks to all of them. (I shall already cite their papers, but do let me know if I left out someone's work:)).
 
 <div align=center>
-<img src="https://github.com/DarkoBomer/VCA-Net/blob/main/pics/results.jpg"/>
+<img src="https://github.com/DarkoBomer/VCA-Net/blob/main/pics/results.jpg" height=400/> &emsp; &emsp;
+<img src="https://github.com/DarkoBomer/VCA-Net/blob/main/pics/ss2.jpg" height=400/>
 </div>
 
     The iOS version:
