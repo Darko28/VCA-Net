@@ -3,6 +3,10 @@ Official Repository for Stroke Lesion Segmentation with Visual Cortex Anatomy Al
 
 https://arxiv.org/abs/2105.06544
 
+<div align=center>
+<img src="https://github.com/DarkoBomer/VCA-Net/blob/main/pics/visual_cotex_a.jpg"/>
+</div>
+
 This is only a preliminary research and shall be updated as my research goes on.
 
 I have read plenty of papers but still am not convinced that this is a meaningful research regarding actual stroke imaging use cases. 
@@ -18,12 +22,16 @@ And I will also try to manipulate the ops and archs in the future, but, still mo
 
 Some of the codes are borrowed from other repositories. Thanks to all of them. (I shall already cite their papers, but do let me know if I left out someone's work:)).
 
+<div align=center>
+<img src="https://github.com/DarkoBomer/VCA-Net/blob/main/pics/results.jpg"/>
+</div>
+
     The iOS version:
+<div align=center>
+<img src="https://github.com/DarkoBomer/VCA-Net/blob/main/pics/ss1.jpg"/>
+</div>
 
-
-However, please consider to cite this paper if any idea or code is helpful, and welcome to reach out to me as I am still new to this field:).
-
-
+<!-- ![image](pics/ss2.jpg) -->
 Note:
     
     I will update with a better aligned model, and it seems Dice Loss should be sufficient enough for this model, and the BCELoss is also redundant; 
