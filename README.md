@@ -6,6 +6,7 @@ https://arxiv.org/abs/2105.06544
 <div align=center>
 <img src="https://github.com/DarkoBomer/VCA-Net/blob/main/pics/visual_cotex_a.jpg"/>
 </div>
+<br />
 
 This is only a preliminary research and shall be updated as my research goes on.
 
@@ -37,3 +38,13 @@ Note:
     
     I will update with a better aligned model, and it seems Dice Loss should be sufficient enough for this model, and the BCELoss is also redundant; 
     I will find time to retrain the net and validate on this issue.
+    
+<br />
+* Please consider to cite this paper if any idea or code is helpful, and welcome to reach out to me as I will keep researching in similar fields:).
+
+        @article{li2021stroke,
+          title={Stroke Lesion Segmentation with Visual Cortex Anatomy Alike Neural Nets},
+          author={Li, Chuanlong},
+          journal={arXiv preprint arXiv:2105.06544},
+          year={2021}
+        }
