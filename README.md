@@ -34,7 +34,7 @@ Some of the codes are borrowed from other repositories. Thanks to all of them. (
 </div>
 <br />
 
-* I may update this repo with a simple iOS demo app in the near future.
+* I may update this repo (or create a second repo) with a simple iOS demo app in the near future.
 <br />
 
 <!-- ![image](pics/ss2.jpg) -->
